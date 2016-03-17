@@ -1,0 +1,15 @@
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\bin\Debug\ChkKMKZ.exe
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\bin\Debug\ChkKMKZ.pdb
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\obj\x86\Debug\ChkKMKZ.Form1.resources
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\obj\x86\Debug\ChkKMKZ.Properties.Resources.resources
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\obj\x86\Debug\ChkKMKZ.csproj.GenerateResource.Cache
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\obj\x86\Debug\ChkKMKZ.exe
+C:\Users\Coder\AppData\Local\Temporary Projects\ChkKMKZ\obj\x86\Debug\ChkKMKZ.pdb
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.exe
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.pdb
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\bin\Debug\ChkKMKZ.exe
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\bin\Debug\ChkKMKZ.pdb
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.Form1.resources
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.Properties.Resources.resources
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.csproj.GenerateResource.Cache
+C:\Users\Coder\documents\visual studio 2010\Projects\ChkKMKZ\ChkKMKZ\obj\x86\Debug\ChkKMKZ.csprojResolveAssemblyReference.cache
