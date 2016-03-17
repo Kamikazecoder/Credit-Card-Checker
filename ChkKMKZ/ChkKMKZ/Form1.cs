@@ -167,8 +167,8 @@ namespace ChkKMKZ
 
         private void flag()
         {
-            string lista = list.SelectedItem.ToString();
-            string[] split = lista.Split(Convert.ToChar(txtSplit.Text));
+            string item = list.SelectedItem.ToString();
+            string[] split = item.Split(Convert.ToChar(txtSplit.Text));
             
             if (split[0].StartsWith("4"))
             {
